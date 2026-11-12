@@ -7,40 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BE024BE11C14585A00850204 /* Regex.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE024BE01C14585A00850204 /* Regex.swift */; };
-		BE354E381C150CA00013FE42 /* Picker.xib in Resources */ = {isa = PBXBuildFile; fileRef = BE354E371C150CA00013FE42 /* Picker.xib */; };
-		BE41B73B1C1877C300B38688 /* TiledImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE41B73A1C1877C300B38688 /* TiledImage.swift */; };
-		BE9A51801C1D182F0092FA64 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE9A517F1C1D182F0092FA64 /* String.swift */; };
-		BE9A51841C1D188F0092FA64 /* NSUserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE9A51831C1D188F0092FA64 /* NSUserDefaults.swift */; };
-		BE9A51861C1D18BE0092FA64 /* ColorSupplyDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE9A51851C1D18BE0092FA64 /* ColorSupplyDelegate.swift */; };
 		BEBC6C881C19CC2A008EA17A /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEBC6C871C19CC2A008EA17A /* Color.swift */; };
-		BEDD2D981C0C64B3003C67FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDD2D971C0C64B3003C67FB /* AppDelegate.swift */; };
-		BEDD2D9A1C0C64B3003C67FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDD2D991C0C64B3003C67FB /* ViewController.swift */; };
 		BEDD2D9C1C0C64B3003C67FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEDD2D9B1C0C64B3003C67FB /* Assets.xcassets */; };
-		BEDD2D9F1C0C64B3003C67FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEDD2D9D1C0C64B3003C67FB /* Main.storyboard */; };
-		BEDD2DA71C0C693D003C67FB /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDD2DA61C0C693D003C67FB /* ColorSlider.swift */; };
-		BEDD2DAB1C0CA2CB003C67FB /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDD2DAA1C0CA2CB003C67FB /* ColorCircle.swift */; };
-		BEF50C951C151CD100C12BB8 /* Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF50C941C151CD100C12BB8 /* Picker.swift */; };
+		C010D1A20000000000000001 /* ColorDialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000001 /* ColorDialApp.swift */; };
+		C010D1A20000000000000002 /* ColorSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000002 /* ColorSession.swift */; };
+		C010D1A20000000000000003 /* Harmony.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000003 /* Harmony.swift */; };
+		C010D1A20000000000000004 /* WorkspaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000004 /* WorkspaceView.swift */; };
+		C010D1A20000000000000005 /* DialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000005 /* DialView.swift */; };
+		C010D1A20000000000000006 /* GradientSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000006 /* GradientSlider.swift */; };
+		C010D1A20000000000000007 /* ColorSpace.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000007 /* ColorSpace.swift */; };
+		C010D1A20000000000000008 /* PerceptualColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C010D1A10000000000000008 /* PerceptualColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BE024BDF1C0FDC8100850204 /* ColorDial.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ColorDial.entitlements; sourceTree = "<group>"; };
-		BE024BE01C14585A00850204 /* Regex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Regex.swift; sourceTree = "<group>"; };
-		BE354E371C150CA00013FE42 /* Picker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Picker.xib; sourceTree = "<group>"; };
-		BE41B73A1C1877C300B38688 /* TiledImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TiledImage.swift; sourceTree = "<group>"; };
-		BE9A517F1C1D182F0092FA64 /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
-		BE9A51831C1D188F0092FA64 /* NSUserDefaults.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSUserDefaults.swift; sourceTree = "<group>"; };
-		BE9A51851C1D18BE0092FA64 /* ColorSupplyDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorSupplyDelegate.swift; sourceTree = "<group>"; };
 		BEBC6C871C19CC2A008EA17A /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		BEDD2D941C0C64B3003C67FB /* ColorDial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorDial.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BEDD2D971C0C64B3003C67FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BEDD2D991C0C64B3003C67FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		BEDD2D9B1C0C64B3003C67FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BEDD2D9E1C0C64B3003C67FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BEDD2DA01C0C64B3003C67FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BEDD2DA61C0C693D003C67FB /* ColorSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
-		BEDD2DAA1C0CA2CB003C67FB /* ColorCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ColorCircle.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		BEF50C941C151CD100C12BB8 /* Picker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Picker.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000001 /* ColorDialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDialApp.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000002 /* ColorSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSession.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000003 /* Harmony.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Harmony.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000004 /* WorkspaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkspaceView.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000005 /* DialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialView.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000006 /* GradientSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientSlider.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000007 /* ColorSpace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSpace.swift; sourceTree = "<group>"; };
+		C010D1A10000000000000008 /* PerceptualColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerceptualColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,21 +66,17 @@
 			isa = PBXGroup;
 			children = (
 				BE024BDF1C0FDC8100850204 /* ColorDial.entitlements */,
-				BEDD2D971C0C64B3003C67FB /* AppDelegate.swift */,
-				BEDD2D991C0C64B3003C67FB /* ViewController.swift */,
 				BEDD2D9B1C0C64B3003C67FB /* Assets.xcassets */,
-				BEDD2D9D1C0C64B3003C67FB /* Main.storyboard */,
 				BEDD2DA01C0C64B3003C67FB /* Info.plist */,
-				BEDD2DA61C0C693D003C67FB /* ColorSlider.swift */,
-				BEDD2DAA1C0CA2CB003C67FB /* ColorCircle.swift */,
-				BE024BE01C14585A00850204 /* Regex.swift */,
 				BEBC6C871C19CC2A008EA17A /* Color.swift */,
-				BE354E371C150CA00013FE42 /* Picker.xib */,
-				BEF50C941C151CD100C12BB8 /* Picker.swift */,
-				BE41B73A1C1877C300B38688 /* TiledImage.swift */,
-				BE9A517F1C1D182F0092FA64 /* String.swift */,
-				BE9A51831C1D188F0092FA64 /* NSUserDefaults.swift */,
-				BE9A51851C1D18BE0092FA64 /* ColorSupplyDelegate.swift */,
+				C010D1A10000000000000008 /* PerceptualColor.swift */,
+				C010D1A10000000000000007 /* ColorSpace.swift */,
+				C010D1A10000000000000006 /* GradientSlider.swift */,
+				C010D1A10000000000000005 /* DialView.swift */,
+				C010D1A10000000000000004 /* WorkspaceView.swift */,
+				C010D1A10000000000000003 /* Harmony.swift */,
+				C010D1A10000000000000002 /* ColorSession.swift */,
+				C010D1A10000000000000001 /* ColorDialApp.swift */,
 			);
 			path = ColorDial;
 			sourceTree = "<group>";
@@ -103,7 +91,6 @@
 				BEDD2D901C0C64B3003C67FB /* Sources */,
 				BEDD2D911C0C64B3003C67FB /* Frameworks */,
 				BEDD2D921C0C64B3003C67FB /* Resources */,
-				BEF1667F22EE2A9E00847F0E /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -120,14 +107,13 @@
 		BEDD2D8C1C0C64B3003C67FB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0710;
-				LastUpgradeCheck = 1030;
+				LastSwiftUpdateCheck = 2720;
+				LastUpgradeCheck = 2720;
 				ORGANIZATIONNAME = "Kenneth Allan";
 				TargetAttributes = {
 					BEDD2D931C0C64B3003C67FB = {
 						CreatedOnToolsVersion = 7.1.1;
-						DevelopmentTeam = 8DNQY5UUEX;
-						LastSwiftMigration = 1030;
+
 						SystemCapabilities = {
 							com.apple.Sandbox = {
 								enabled = 1;
@@ -160,64 +146,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEDD2D9C1C0C64B3003C67FB /* Assets.xcassets in Resources */,
-				BE354E381C150CA00013FE42 /* Picker.xib in Resources */,
-				BEDD2D9F1C0C64B3003C67FB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		BEF1667F22EE2A9E00847F0E /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "if which swiftlint >/dev/null; then\nswiftlint\nelse\necho \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n";
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		BEDD2D901C0C64B3003C67FB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEDD2D9A1C0C64B3003C67FB /* ViewController.swift in Sources */,
-				BEF50C951C151CD100C12BB8 /* Picker.swift in Sources */,
-				BE024BE11C14585A00850204 /* Regex.swift in Sources */,
-				BE9A51841C1D188F0092FA64 /* NSUserDefaults.swift in Sources */,
-				BE9A51801C1D182F0092FA64 /* String.swift in Sources */,
-				BE41B73B1C1877C300B38688 /* TiledImage.swift in Sources */,
-				BEDD2DAB1C0CA2CB003C67FB /* ColorCircle.swift in Sources */,
 				BEBC6C881C19CC2A008EA17A /* Color.swift in Sources */,
-				BEDD2DA71C0C693D003C67FB /* ColorSlider.swift in Sources */,
-				BEDD2D981C0C64B3003C67FB /* AppDelegate.swift in Sources */,
-				BE9A51861C1D18BE0092FA64 /* ColorSupplyDelegate.swift in Sources */,
+				C010D1A20000000000000008 /* PerceptualColor.swift in Sources */,
+				C010D1A20000000000000007 /* ColorSpace.swift in Sources */,
+				C010D1A20000000000000006 /* GradientSlider.swift in Sources */,
+				C010D1A20000000000000005 /* DialView.swift in Sources */,
+				C010D1A20000000000000004 /* WorkspaceView.swift in Sources */,
+				C010D1A20000000000000003 /* Harmony.swift in Sources */,
+				C010D1A20000000000000002 /* ColorSession.swift in Sources */,
+				C010D1A20000000000000001 /* ColorDialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		BEDD2D9D1C0C64B3003C67FB /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				BEDD2D9E1C0C64B3003C67FB /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		BEDD2DA11C0C64B3003C67FB /* Debug */ = {
@@ -267,7 +218,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 27.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
@@ -316,7 +267,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 27.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -328,15 +279,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = ColorDial/ColorDial.entitlements;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				ENABLE_HARDENED_RUNTIME = YES;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 8DNQY5UUEX;
+
 				INFOPLIST_FILE = ColorDial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 27.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.norganna.ColorDial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				ARCHS = arm64;
+				SWIFT_VERSION = 6.0;
 			};
 			name = Debug;
 		};
@@ -345,15 +299,19 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = ColorDial/ColorDial.entitlements;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
+				CODE_SIGN_STYLE = Manual;
+				ENABLE_HARDENED_RUNTIME = YES;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 8DNQY5UUEX;
+
 				INFOPLIST_FILE = ColorDial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 27.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.norganna.ColorDial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				ARCHS = arm64;
+				SWIFT_VERSION = 6.0;
 			};
 			name = Release;
 		};
